@@ -10,5 +10,7 @@ public class Demo
 	public void m1()
 	{
 		System.out.println("Hello M1");
+		System.out.println("Hello M2");
+		System.out.println("Hello M3");
 	}
 }
